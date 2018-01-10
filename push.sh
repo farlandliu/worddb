@@ -1,4 +1,4 @@
-cp ~/.word.db word.db -y
+cp ~/.word.db word.db
 git add .
 git commit -m:'sync'
 git push
